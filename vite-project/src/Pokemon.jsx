@@ -2,6 +2,9 @@ import { useEffect, useState } from "react";
 import "./index.css";
 import { PokemonCards } from "./pokemoncards";
 
+import { Loader } from "./loader.jsx";
+
+
 export const Pokemon = () => {
   const [pokemon, setPokemon] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -47,11 +50,10 @@ export const Pokemon = () => {
 
   if (loading) {
     return (
-      <div>
-        <h1>Loading....</h1>
-      </div>
+      <Loader/>
     );
   }
+      
 
   if (error) {
     return (
