@@ -18,9 +18,9 @@
 
 <h2>🛠️ Tech Stack </h2>
 <ul>
-    <h2> React, HTML, CSS, JavaScript , Chatgpt  </h2>
-    <h2> API: Pokémon API </h2> 
-    <h2> styling: Custom CSS for a clean and modern interface </h2>
+    <li> React, HTML, CSS, JavaScript , Chatgpt  </li>
+    <li> API: Pokémon API </li> 
+    <li> styling: Custom CSS for a clean and modern interface </li>
 </ul>
 
 
