@@ -27,7 +27,8 @@
 <h2>📸 Screenshots</h2>
 Loader Page:
 👉
-![Screenshot 2024-12-07 103827](https://github.com/user-attachments/assets/7cff9967-5dd2-4733-81aa-0812c0f452b5)
+
+![loader](https://github.com/user-attachments/assets/62b90957-19be-4864-91b4-6dd7415cbe52)
 
 
 Search Results:
