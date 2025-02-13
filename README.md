@@ -14,7 +14,7 @@
 
 <h2>🚀 Demo </h2>
 
-<p> Live Demo 👉👉👉  https://sarthakpokedesk.netlify.app/ </p>
+<p> Live Demo 👉👉👉  https://pokedesk-app.netlify.app/ </p>
 
 <h2>🛠️ Tech Stack </h2>
 <ul>
